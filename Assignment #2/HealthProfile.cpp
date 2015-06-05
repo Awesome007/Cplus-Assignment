@@ -7,7 +7,7 @@
  * Stub file for Programming Assignment #2
  *
  * Name: OSUOBIEM, GABRIEL IGELLE
- * Matric No: 46063080GE
+ * Reg No: 46063080GE
  * Department: COMPUTER SCIENCE
  *
  \*======================================================================*/
